@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #686de0;
+	font-family: 'Roboto', sans-serif;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	padding: 20px;
+	margin: 0;
+}
+
+.container {
+	background-color: #fff;
+	max-width: 100%;
+	width: 800px;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+	padding: 50px 20px;
+}
+
+h3 {
+	margin: 0;
+	opacity: 0.5;
+	letter-spacing: 2px;
+}
+
+.joke {
+	max-width: 600px;
+	font-size: 30px;
+	letter-spacing: 1px;
+	line-height: 40px;
+	margin: 50px auto;
+}
+
+.button {
+	background-color: #9f68e0;
+	font-size: 16px;
+	color: #fff;
+	border: 0;
+	border-radius: 10px;
+	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+	padding: 14px 40px;
+	cursor: pointer;
+}
+
+.button:active {
+	transform: scale(0.98);
+}
+
+.button:focus {
+	outline: none;
+}
