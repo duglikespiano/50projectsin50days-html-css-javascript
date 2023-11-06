@@ -44,3 +44,4 @@
 9. Sound board
 10. Dad jokes
 11. Event keycodes
+12. FAQ collapse
