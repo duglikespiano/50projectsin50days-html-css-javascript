@@ -45,3 +45,4 @@
 10. Dad jokes
 11. Event keycodes
 12. FAQ collapse
+13. Random choice picker
