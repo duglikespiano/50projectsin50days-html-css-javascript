@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Zen+Kaku+Gothic+New:wght@300;400;500;700;900&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #000;
+	font-family: 'Roboto', sans-serif;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	margin: 0;
+}
+
+button {
+	background-color: purple;
+	position: relative;
+	font-size: 14px;
+	color: #fff;
+	border: 1px purple solid;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	overflow: hidden;
+	padding: 20px 30px;
+	margin: 10px 0;
+}
+
+button .circle {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: #fff;
+	border-radius: 50px;
+	transform: translate(-50%, -50%) scale(0);
+	animation: scale 0.5s ease-out;
+}
+
+@keyframes scale {
+	to {
+		transform: translate(-50%, -50%) scale(3);
+		opacity: 0;
+	}
+}
