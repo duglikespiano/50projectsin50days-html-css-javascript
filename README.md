@@ -56,3 +56,4 @@
 21. Drag and drop
 22. Drawing app
 23. Kinetic loader
+24. Content placeholder
