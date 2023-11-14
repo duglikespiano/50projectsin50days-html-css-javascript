@@ -58,3 +58,4 @@
 23. Kinetic loader
 24. Content placeholder
 25. Sticky navbar
+26. Vertical slider
