@@ -57,3 +57,4 @@
 22. Drawing app
 23. Kinetic loader
 24. Content placeholder
+25. Sticky navbar
