@@ -60,3 +60,4 @@
 25. Sticky navbar
 26. Vertical slider
 27. Toast notification
+28. Github profiles
