@@ -64,3 +64,4 @@
 29. Double click heart
 30. Auto text effect
 31. Password generator
+32. Good, Cheap, Fast checkboxes
