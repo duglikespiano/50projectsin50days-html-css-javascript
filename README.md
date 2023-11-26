@@ -71,3 +71,4 @@
 36. Hover board
 37. Pokedex
 38. Mobile tab navigation
+39. Password strength background
