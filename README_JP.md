@@ -72,3 +72,4 @@
 37. Pokedex
 38. Mobile tab navigation
 39. Password strength background
+40. 3D boxes background
