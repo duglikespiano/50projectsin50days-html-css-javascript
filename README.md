@@ -73,3 +73,4 @@
 38. Mobile tab navigation
 39. Password strength background
 40. 3D boxes background
+41. Verify account UI
