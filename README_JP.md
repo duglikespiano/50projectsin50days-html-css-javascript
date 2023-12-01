@@ -76,3 +76,4 @@
 41. Verify account UI
 42. Live user filter
 43. Feedback UI design
+44. Custom range slider
