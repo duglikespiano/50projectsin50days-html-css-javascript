@@ -77,3 +77,4 @@
 42. Live user filter
 43. Feedback UI design
 44. Custom range slider
+45. Netflix navigation
