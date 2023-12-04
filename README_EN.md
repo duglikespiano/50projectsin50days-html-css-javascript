@@ -78,3 +78,4 @@
 43. Feedback UI design
 44. Custom range slider
 45. Netflix navigation
+46. Quiz app
