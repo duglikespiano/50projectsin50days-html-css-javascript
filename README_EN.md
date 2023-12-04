@@ -79,3 +79,4 @@
 44. Custom range slider
 45. Netflix navigation
 46. Quiz app
+47. Testimonial box switcher
