@@ -80,3 +80,4 @@
 45. Netflix navigation
 46. Quiz app
 47. Testimonial box switcher
+48. Random image feed
