@@ -1,4 +1,4 @@
-# 50projectin50days_html,css,javascript(jp)
+# 50projectsin50days_html,css,javascript(jp)
 
 ##### [한국어 버전은 이 곳을 클릭해주세요](README.md)
 
@@ -14,7 +14,7 @@
 
 ### 1. 概要
 
-- Project タイトル: 50projectin50days_html,css,javascript
+- Project タイトル: 50projectsin50days_html,css,javascript
 - 関連 URL : https://www.udemy.com/course/50-projects-50-days
 - 期間 : 2023.10.31 - 進行中
 - 人員 : 1 人
@@ -82,3 +82,4 @@
 47. Testimonial box switcher
 48. Random image feed
 49. Todo list
+50. Insect catch game
