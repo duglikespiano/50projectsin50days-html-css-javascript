@@ -16,7 +16,7 @@
 
 - 프로젝트명 : 50projectsin50days_html,css,javascript
 - 관련URL : https://www.udemy.com/course/50-projects-50-days
-- 기간 : 2023.10.31 - 진행중
+- 기간 : 2023.10.31 - 2023.12.08
 - 인원 : 1인
 - 기술스택 : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
