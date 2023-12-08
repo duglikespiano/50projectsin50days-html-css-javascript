@@ -16,7 +16,7 @@
 
 - Project title : 50projectsin50days_html,css,javascript
 - Related URL : https://www.udemy.com/course/50-projects-50-days
-- Period : Oct 31 2023 - in progress
+- Period : Oct 31 2023 - Dec 08 2023
 - Member(s) : Dug Park
 - Tech stack : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">

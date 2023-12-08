@@ -16,7 +16,7 @@
 
 - Project タイトル: 50projectsin50days_html,css,javascript
 - 関連 URL : https://www.udemy.com/course/50-projects-50-days
-- 期間 : 2023.10.31 - 進行中
+- 期間 : 2023.10.31 - 2023.12.08
 - 人員 : 1 人
 - 技術スタック : </br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
